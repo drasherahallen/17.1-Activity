@@ -1,0 +1,13 @@
+h1 { 
+    font-family: sans-serif;
+    font-weight: 900;
+    color: blueviolet;
+    text-decoration: underline;
+}
+
+p {
+    font-size: 18px;
+    font-family: sans-serif;
+    color: cornflowerblue;
+    
+}
